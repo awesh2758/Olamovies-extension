@@ -3,6 +3,6 @@
   "description": "OlaMovies 4K & 1080p CloudStream Extension",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/awesh2758/Olamovies-extension/builds/plugins.json"
+    "https://raw.githubusercontent.com/awesh2758/Olamovies-extension/Builds/plugins.json"
   ]
 }
