@@ -4,7 +4,7 @@
     "internalName": "OlaMovies",
     "pluginClassName": "com.olamovies.OlaMoviesPlugin",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/awesh2758/Olamovies-extension/builds/OlaMovies.cs3",
+    "url": "https://raw.githubusercontent.com/awesh2758/Olamovies-extension/Builds/OlaMovies.cs3",
     "description": "Stream 4K, Remux and 1080p movies and series from OlaMovies & OM Drive.",
     "authors": [
       "awesh2758"
